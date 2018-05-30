@@ -16,7 +16,7 @@ Ubuntu installation
 
 
 
-In Implementatieplan volgorde commands Ubuntu Server terminal
+In Implementation commands Ubuntu Server terminal
 
 1. sudo apt-get install phpmyadmin php-mbstring php-gettext
 2. sudo apt-get install composer
